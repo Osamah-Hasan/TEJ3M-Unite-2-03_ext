@@ -1,7 +1,7 @@
 """
 Created by: Osamah
 Created on: FEB 2025
-Created for: TEJ3M-Unit 2-01 LED loop
+Created for: TEJ3M-Unit 2-03 LED python loop
 """
 
 import board
